@@ -1,4 +1,4 @@
-app = "my-remix-app-4251"
+app = "psbanka-indie-stack-demo"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
